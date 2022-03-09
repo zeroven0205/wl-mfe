@@ -22,5 +22,5 @@ __qiankun__ || render();
 /**
  * @name 测试go.js
  */
-import "@/demo-flow/go"
-console.log(window.go);
+// import "@/demo-flow/go"
+// console.log(window.go);

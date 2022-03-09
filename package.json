@@ -11,5 +11,9 @@
         "deploy": "node config/deploy.js",
         "publish": "node config/deploy.js",
         "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "chalk": "4.0.0",
+        "inquirer": "7.3.3"
     }
 }
